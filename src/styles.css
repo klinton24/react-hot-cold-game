@@ -1,0 +1,116 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+html {
+  background-color: #7db9e8;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.gridContainer {
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.header {
+  font-weight: 800;
+}
+
+.paper {
+  padding: 50px;
+}
+
+.formText {
+  padding-bottom: 20px;
+}
+
+.form {
+  margin-top: 20px;
+}
+
+.progressBar {
+  margin-top: 50px;
+}
+
+.progressBar__history {
+  display: flex;
+  border: 1px solid white;
+  border-radius: 4px;
+  min-height: 30px;
+  padding: 5px;
+  list-style: none;
+  color: black;
+  font-size: 24px;
+  flex-wrap: wrap;
+}
+
+.progressBar__history li {
+  margin-right: 8px;
+  padding: 2px;
+  border-radius: 4px;
+}
+
+body {
+  background: -webkit-linear-gradient(
+    #1e5799 0%,
+    #ff3033 0%,
+    #ff3033 38%,
+    #207cca 70%,
+    #7db9e8 100%
+  );
+  background: linear-gradient(
+    #1e5799 0%,
+    #ff3033 0%,
+    #ff3033 38%,
+    #207cca 70%,
+    #7db9e8 100%
+  );
+}
+
+.feedback {
+  border-radius: 20px;
+  padding: 4px;
+  background-color: #cecece;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Roboto;
+  min-height: 50px;
+}
+
+.a {
+  background-color: #bde9f7;
+}
+
+.c {
+  background-color: #68dcff;
+}
+
+.w {
+  background-color: #ffd000;
+}
+
+.y {
+  background-color: #f2ff00;
+}
+
+.e {
+  background-color: #ff0000;
+}
+
+.h {
+  background-color: #ff6e00;
+}
+
+.t {
+  background-color: firebrick;
+}
+
+.j {
+  background: linear-gradient(red, yellow);
+}
