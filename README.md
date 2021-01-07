@@ -1,1 +1,1 @@
-# testing
+# React Hot/Cold Game
